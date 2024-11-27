@@ -1,5 +1,7 @@
 小火箭去广告：
 整体的，要安装证书
+
+
 黑名单规则 + 去广告	被墙的网站（GFWList）	正常的网站
 https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist_ad.conf
 
